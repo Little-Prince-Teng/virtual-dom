@@ -1,1 +1,1 @@
-# virtual-dom
+# 简易版 virtual-dom
